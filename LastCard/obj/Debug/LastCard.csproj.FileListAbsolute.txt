@@ -1,0 +1,6 @@
+D:\C# files\LastCard\LastCard\bin\Debug\LastCard.exe.config
+D:\C# files\LastCard\LastCard\bin\Debug\LastCard.exe
+D:\C# files\LastCard\LastCard\bin\Debug\LastCard.pdb
+D:\C# files\LastCard\LastCard\obj\Debug\LastCard.exe
+D:\C# files\LastCard\LastCard\obj\Debug\LastCard.pdb
+D:\C# files\LastCard\LastCard\obj\Debug\LastCard.csprojResolveAssemblyReference.cache
